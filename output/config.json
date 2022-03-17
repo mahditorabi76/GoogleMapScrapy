@@ -1,0 +1,9 @@
+﻿{
+  "executable_path": "C:\\geckodriver-v0.30.0-win64/geckodriver.exe",
+  "searchKeywork": "کارت ویزیت مشهد",
+  "number_link": 30,
+  "read_urls": 1,
+  "range_link": 0,
+  "up": 15,
+  "down": 20
+}
